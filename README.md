@@ -3,10 +3,10 @@
 ## Running code instruactions
 
 API: </br>
-  * All my API keys are provided in my code(project_code.py). There is no special operations to access API keys. Just run the code. </br>
+  - All my API keys are provided in my code(project_code.py). There is no special operations to access API keys. Just run the code. </br>
 
 Instruction of interaction: </br>
-  * STEP 1: (prompts) Run the code, click the link in the commend line prompts. It will direct you to a webpage(Welcome page). </br>
+  - STEP 1: (prompts) Run the code, click the link in the commend line prompts. It will direct you to a webpage(Welcome page). </br>
   - STEP 2: (HTML) Click the link, "Let us know your preference!", to fill out the form. </br>
   - STEP 3: (HTML) You can enter your address, the food types you want to eat, and the price level you can accept, to let the program know your preference. </br>
   - STEP 4: (HTML) Click "Submit Form", and turn back to the commend line prompts. </br>
