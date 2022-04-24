@@ -1,6 +1,6 @@
 # SI507_FINAL_PROJECT
 
-## Running code instruactions
+### Running code instruactions
 
 API: </br>
   - All my API keys are provided in my code(project_code.py). There is no special operations to access API keys. Just run the code. </br></br>
@@ -19,8 +19,10 @@ notes: </br>
   - After STEP 5, a json file of the tree(tree_json.json) will be written out. Use read_tree_json.py to read it. </br></br>
 
 
-## Data structure description
-Data will be in a tree data structure, which looks like this.
-![alt_text](https://github.com/liu0ing0ing/SI507_FINAL_PROJECT/blob/main/tree.png?raw=true)
+### Data structure description
+
+  - Data will be in a tree data structure, which looks like this.
+![alt_text](https://github.com/liu0ing0ing/SI507_FINAL_PROJECT/blob/main/tree.png?raw=true)</br>
+  - After STEP4, collecting users’ preferences, we have cached data, which will be stored as a JSON file. The data is ordered based on the distance from the restaurant to the user’s address. We will first ask the user if they want to go to the first restaurant, which is the nearest one, listed in the JSON file. If the answer is “yes”, the webpage of the restaurant will show up. If the answer is “no”, the first row will be deleted and the program will ask which parameter(distance, rating score, price, transactions) that the user wants to adjust. 
 
 
