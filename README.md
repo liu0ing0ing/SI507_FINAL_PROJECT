@@ -20,3 +20,7 @@ notes: </br>
 
 
 ## Data structure description
+Data will be in a tree data structure, which looks like this.
+![alt_text](https://github.com/liu0ing0ing/SI507_FINAL_PROJECT/blob/main/tree.png?raw=true)
+
+
