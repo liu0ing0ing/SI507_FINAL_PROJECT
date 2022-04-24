@@ -3,7 +3,7 @@
 ## Running code instruactions
 
 API: </br>
-  - All my API keys are provided in my code(project_code.py). There is no special operations to access API keys. Just run the code. </br>
+  - All my API keys are provided in my code(project_code.py). There is no special operations to access API keys. Just run the code. </br></br>
 
 Instruction of interaction: </br>
   - STEP 1: (prompts) Run the code, click the link in the commend line prompts. It will direct you to a webpage(Welcome page). </br>
@@ -13,10 +13,10 @@ Instruction of interaction: </br>
   - STEP 5: (prompts) A question will show, follow the instruction and answer it. </br>
   - STEP 6: (HTML) After choosing a restaurant, the menu of it will show as HTML. Select the dishes you want to eat and click "Submit Form". </br>
   - STEP 7: (prompts) Back to the commend line prompts, it will ask you weather you want to see the nutritional information in a plot or in text format. </br>
-  - STEP 8: (prompts) Enter "yes" to see a plot; enter "no" to see the information in text form. Both of them will show as HTML. </br>
+  - STEP 8: (prompts) Enter "yes" to see a plot; enter "no" to see the information in text form. Both of them will show as HTML. </br></br>
   
 notes: </br>
-  - After STEP 5, a json file of the tree(tree_json.json) will be written out. Use read_tree_json.py to read it. </br>
+  - After STEP 5, a json file of the tree(tree_json.json) will be written out. Use read_tree_json.py to read it. </br></br>
 
 
 ## Data structure description
