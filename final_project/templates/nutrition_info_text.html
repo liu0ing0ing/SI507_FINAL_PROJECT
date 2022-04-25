@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nutrition Text</title>
+</head>
+<body>
+  <h2>Here is the nutrition information about your dishes!</h2>
+
+    {% for ele in total_list %}
+        <td>{{ ele[0] }}:   {{  ele[1]  }} </td> </br>
+    {% endfor %}
+
+  <img src="https://www.pngitem.com/pimgs/m/543-5432839_united-kingdom-enjoy-your-meal-enjoy-your-meal.png"
+       width="573"
+       height="288" >
+
+
+</body>
+</html>

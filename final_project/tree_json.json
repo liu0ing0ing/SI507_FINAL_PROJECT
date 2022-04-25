@@ -1,0 +1,1 @@
+["Do you have specific restaurant?", ["Is it Momo Sushi?", ["I got it", null, null], ["distance?", ["Adjust distance for you", null, null], ["rating?", ["Adjust rating for you", null, null], ["Delivery?", ["select delivery for you", null, null], ["select pickup for you", null, null]]]]], ["Do it again", null, null]]
